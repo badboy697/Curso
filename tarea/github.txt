@@ -5,3 +5,14 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/badboy697/Curso.git
 git push -u origin main
+
+git config --global user.name badboy697 
+
+git config --global user.name joel_del38@outlook.es
+
+git config user.name
+
+Actualizar cambios
+1) git add .
+2) git commit -m "COMETARIO"
+3) git push
